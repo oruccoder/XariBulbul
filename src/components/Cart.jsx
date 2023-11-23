@@ -16,7 +16,6 @@ function Cart({cart, emptyCart}) {
     <div>
       <div className='shopping_cart'>
     <div onClick={OpenCart} className='shopping_price'>
-    <a href='#'>$0.00</a>
     </div>
   
     <div className='shopping_cart_icon'>

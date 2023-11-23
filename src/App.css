@@ -352,7 +352,7 @@ nav ul li a:hover::before{
   }
 }
 
-@media(max-width: 10000px){
+@media(max-width: 1000px){
   .elementor_widget_wrap {
     display: none;
   }
